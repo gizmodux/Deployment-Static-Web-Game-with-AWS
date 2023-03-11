@@ -13,10 +13,12 @@ Proses Deployment on AWS Services :
 
 3. Create Name of Domain hosting outside AWS for SSL
 
-4 Import Domain for created SSL  
+4. Import Domain for created SSL  
 
 5. Create Hosted Zone on AWS Route 51 for SSL and Cloufront (CDN) 
 
 6. Create CloudFront for integrated SSL and S3 
 
 7. Testing Website
+
+Topology
